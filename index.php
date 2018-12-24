@@ -16,3 +16,5 @@ if ($text == "" && phoneNumber = "07019525473") {
 // Echo the response back to the API
 header('Content-type: text/plain');
 echo $response;
+// DONE!
+?>
