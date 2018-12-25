@@ -21,9 +21,9 @@ if ($text == ""){
 	$response .= "CON Enter Your Phone number\n";
 }
 else if ($text == "07019525473") {
-	$response .= "CON You are a verified member, here is a recharge card reward from us. 559832740292\n";
+	$response .= "END You are a verified member, here is a recharge card reward from us. 559832740292\n";
     }else if ($text == "08118230396") {
-	$response .= "CON You are a verified member, here is a recharge card reward from us. 628273947293\n";
+	$response .= "END You are a verified member, here is a recharge card reward from us. 628273947293\n";
 }else{
 	$response .= "CON Sorry, you are not one of us yet. Kindly visit your LGA to become a member.\n";
 	}
