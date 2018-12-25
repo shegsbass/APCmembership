@@ -25,7 +25,7 @@ else if ($text == "07019525473") {
     }else if ($text == "08118230396") {
 	$response .= "END You are a verified member, here is a recharge card reward from us. 628273947293\n";
 }else{
-	$response .= "CON Sorry, you are not one of us yet. Kindly visit your LGA to become a member.\n";
+	$response .= "END Sorry, you are not one of us yet. Kindly visit your LGA to become a member.\n";
 	}
 	
 
